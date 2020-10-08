@@ -1,8 +1,9 @@
-class Main {
+
+public class ScannerTut {
+
   public static void main(String[] args)
-   {
-    boolean sisters = true;
-    int age = 
+  
+      Scanner scan = new Scanner (); 
 
   
   }
